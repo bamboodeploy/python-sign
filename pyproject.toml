@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "bamboodeploy"
-version = "1.0.0"
+version = "1.1.0"
 description = "Scan and code-sign Windows .exe and .msi files from PyInstaller, Nuitka, or any build script via the Bamboo Deploy API. No certificate or hardware token to manage."
 readme = "README.md"
 license = "MIT"
